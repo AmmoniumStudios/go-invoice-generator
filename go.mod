@@ -1,4 +1,4 @@
-module github.com/angelodlfrtr/go-invoice-generator
+module github.com/AmmoniumStudios/go-invoice-generator/v1
 
 go 1.17
 
